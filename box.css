@@ -1,0 +1,42 @@
+body{
+    background-color: red;
+
+}
+#box1{
+    background-color: #f9e0c9;
+    margin-left: 60px;
+    margin-right: 60px;
+    height: 10000px;
+}
+#frt{
+    background-color: #F5C291;
+    height: 200px;
+    margin: 30px;
+    margin-top: 20px;
+}
+#scnd{
+    padding:20px;
+    color:green;
+    font-size: 40px;
+}
+#para1{
+    background-color: #F5C291;
+    width: 40%;
+    margin: 30px ;
+    padding: 10px;
+    float: left;
+}
+#sec{
+    background-color: #F5C291;
+    width:40%;
+    margin:30px;
+    padding: 10px;
+    float:right;
+}
+#bottom{
+    background-color: #F5C291;
+    margin: 20px;
+    float: left;
+    width:95%;
+    padding: 10px;
+}
